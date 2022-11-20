@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PADumper</string>
+    <string name="app_name">MarDumper</string>
     <string name="process_name">Process Name</string>
     <string name="select_process">Select Apps</string>
     <string name="elf_name">ELF Name</string>
