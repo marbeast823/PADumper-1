@@ -105,7 +105,7 @@ class MainActivity : AppCompatActivity() {
             startActivity(
                 Intent(
                     ACTION_VIEW,
-                    Uri.parse("https://github.com/BryanGIG/PADumper")
+                    Uri.parse("https://github.com")
                 )
             )
         }
